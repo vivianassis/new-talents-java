@@ -36,4 +36,5 @@ ctrl +d = deleta a linha
 alt +seta = altera LOCALIZAÇÃO  de um bloco inteiro
 ctrl +shift +f = identação 
 ctrl +shift +o = importação do objeto em questão
+ctrl +alt +seta pra baixo = duplica linha
 */
